@@ -1,0 +1,238 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+    width: 100%;
+    float: left;
+    position: fixed;
+    top: 0;
+    background-color: #161616;
+    color: #ffff;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+
+}
+.fa.fa-handshake-o{
+	margin-left: 50%;
+    margin-top: 4px;
+    font-size: 46px;
+}
+.menu {
+
+    height: 50px;
+    width: 60%;
+    float: left;
+}
+
+nav ul{
+		list-style: none;
+}
+nav ul li {
+    display: inline-block;
+    margin-top: 11px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 50px; 
+}
+.icon {
+    background-color:black;
+    color: #fff;
+    width: 20%;
+    float: left;
+}
+.icon ul {
+    list-style: none;
+    margin: 2px 63px;
+}
+.icon ul li{
+	display: inline-block;
+    margin-top: 12px;
+    transition: 0.4s ease;
+
+}
+.icon ul li a{
+}
+
+.fa.fa-facebook {
+    background-color: #4267B2;
+    padding: 9px;
+    color: #fff;
+}
+.fa.fa-twitter {
+    background-color: #4267B2;
+    padding: 9px;
+    color: #fff;
+}
+.fa.fa-youtube {
+    background-color: #E81123;
+    padding: 9px;
+    color: #fff;
+}
+
+.icon ul li:hover {
+	transform: rotate(360deg);
+}
+
+.future{
+	width: 100%;
+	float: left;
+
+}
+img{
+    background-size: cover;
+    width: 100%;
+    float: left;
+
+}
+
+.future-one{
+	width: 100%;
+	float:left;
+}
+
+.service{
+	width: 100%;
+	float: left;
+}
+.service-one{
+	width: 25%;
+	background-color:green;
+	height: 350px;
+	float:left;
+}
+.service-two{
+	width: 25%;
+	background-color:navy;
+	height: 350px;
+	float:left;
+}
+.service-three{
+	width: 25%;
+	background-color:black;
+	height: 350px;
+	float:left;
+}
+.service-four{
+	width: 25%;
+	background-color:magenta;
+	height: 350px;
+	float:left;
+}
+.invest{
+		width: 100%;
+	float:left;
+}
+.invest-one{
+		width: 50%;
+	background-color:blue;
+	height: 350px;
+	float:left;
+}
+
+
+.invest-two{
+	width: 50%;
+	background-color:black;
+	height: 350px;
+	float:left;
+
+}
+.blog{
+	width: 100%;
+	float:left;
+
+}
+.blog-one{
+	width: 50%;
+	background-color:green;
+	height: 350px;
+	float:left;
+
+}
+.blog-two{
+	width: 50%;
+	background-color:grey;
+	height: 350px;
+	float:left;
+
+}
+.lenders{
+	width: 100%;
+	float:left;
+
+}
+.lenders-one{
+	width: 100%;
+	background-color:cyan;
+	height: 350px;
+	float:left;
+
+}
+.tpilot{
+	width: 100%;
+	float:left;
+
+}
+.tpilot-one{
+	width: 100%;
+	background-color:chocolate;
+	height: 350px;
+	float:left;
+
+}
+.lendino{
+	width: 100%;
+	float:left;
+
+}
+.lendino-one{
+	width: 100%;
+	background-color:maroon;
+	height: 350px;
+	float:left;
+}
+footer {
+    width: 100%;
+    float: left;
+   
+}
+.copyright {
+    width: 100%;
+    float: left;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.copyright-one
+{	
+	font-size: 12px;
+	width: 50%;
+	float:left;
+	margin: 0 auto;
+	background-color: #a9a9a99c;
+}
+.copyright-two{
+	font-size: 12px;
+	width: 50%;
+	float:left;
+	margin: 0 auto;
+	background-color: #a9a9a99c;
+}
